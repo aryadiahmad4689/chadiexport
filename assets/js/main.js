@@ -70,7 +70,7 @@
   // Preloader
   function preloaderSetup() {
     $(".st-preloader-wave").fadeOut();
-    $("#st-preloader").delay(150).fadeOut("slow");
+    $("#st-preloader").delay(20).fadeOut("slow");
   }
   
   /*--------------------------------------------------------------
